@@ -26,13 +26,13 @@ Organização de código em projetos front-end
 
 🚀 Tecnologias utilizadas
 
-React
+-React
 
-Vite
+-Vite
 
-JavaScript (ES6+)
+-JavaScript (ES6+)
 
-CSS
+-CSS
 
 🎯 Objetivo profissional
 
