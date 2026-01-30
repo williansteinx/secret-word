@@ -1,16 +1,39 @@
-# React + Vite
+Secret Word 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Secret Word é um jogo de adivinhação de palavras desenvolvido em React, criado como projeto de estudo para consolidar fundamentos do desenvolvimento front-end com foco em lógica, estados e organização de componentes.
 
-Currently, two official plugins are available:
+O projeto demonstra a aplicação prática de conceitos essenciais do React em um cenário simples, porém completo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Demo
 
-## React Compiler
+https://secret-word-sable.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🧠 Contexto do projeto
 
-## Expanding the ESLint configuration
+Este projeto foi desenvolvido com o objetivo de praticar e demonstrar conhecimentos em React, especialmente:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Criação e reutilização de componentes
+
+Gerenciamento de estado com hooks
+
+Controle de fluxo da aplicação
+
+Lógica de negócio aplicada a um jogo simples
+
+Organização de código em projetos front-end
+
+É um projeto voltado para aprendizado e portfólio, mostrando domínio dos fundamentos da biblioteca.
+
+🚀 Tecnologias utilizadas
+
+React
+
+Vite
+
+JavaScript (ES6+)
+
+CSS
+
+🎯 Objetivo profissional
+
+Projeto desenvolvido com foco em aprendizado contínuo e composição de portfólio, demonstrando conhecimentos em React e boas práticas iniciais de desenvolvimento front-end.
